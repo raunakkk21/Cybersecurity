@@ -82,6 +82,14 @@ Cyberattacks can be aimed at:
 - *Netcraft*-Netcraft's online brand protection operates 24/7 to discover phishing, fraud, scams, and cyber attacks through extensive automation, AI, machine learning, and human insight. Their disruption & takedown service ensures that malicious content is blocked and removed quickly and efficiently—typically within hours.
 - *ARIN(American registry for internet)*-The American Registry for Internet Numbers (ARIN) is the regional Internet registry for the United States, Canada, and many Caribbean and North Atlantic islands. ARIN manages the distribution of Internet number resources, including IPv4 and IPv6 address space and AS numbers.
 
+### Hostname resolution
+- Host name resolution resolves the names of TCP/IP resources that do not connect through the NetBIOS interface. The most common example of this is a Web browser such as Microsoft Internet Explorer. Other examples include Internet applications such as Ping, FTP, and Telnet.
+- *NetBIOS interface(Network Basic Input/Output System)*-It is a network service that enables applications on different computers to communicate with each other across a local area network (LAN).
+<img width="750" src="![image](https://github.com/raunakkk21/Cybersecurity/assets/143111163/31dc189e-f73a-46f9-8ed7-c3f53c678c6e)">
+
+
+
+
 
 
 
