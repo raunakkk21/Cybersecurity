@@ -152,6 +152,33 @@ Cyberattacks can be aimed at:
 - In computer networking, multicast is a group communication paradigm that transmits data from one or more sources to a group of destinations simultaneously
 
 
+## DHCP
+<img width="750" alt="Screenshot 2024-02-16 164716" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/f104eef3-fbc8-4756-8683-0204da766eff">  
+
+- *Dynamic host configuration protocol*-It is a network management protocol used to dynamicallya assign an internet protocol address to any device on the network so they can communicate using IP
+- It automatically assigns an Internet Protocol (IP) host with its IP address and other related configuration information such as the subnet mask and default gateway.
+- Runs at application layer(7th layer) of the OSI model
+- Not a routable protocol and also it's not a secure one, prefereable for LAN
+
+<img width="750" alt="Screenshot 2024-02-16 172331" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/5ed4d209-76d0-4329-82b2-95b9fd02f91a">    
+
+## Address Resolution Protocol(LAN prootocol)  
+- Address Resolution Protocol (ARP) is a protocol that maps dynamic IP addresses to permanent physical machine addresses in a local area network (LAN). The physical machine address is also known as a media access control (MAC) address.
+
+<img width="750" alt="Screenshot 2024-02-16 172546" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/745ba2f6-5ae2-41ef-84a5-c7bfe425f4cd">  
+<img width="750" alt="Screenshot 2024-02-16 172656" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/6ba641fd-5112-4373-8944-763f03f24df9">  
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
