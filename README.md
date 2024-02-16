@@ -85,7 +85,97 @@ Cyberattacks can be aimed at:
 ### Hostname resolution
 - Host name resolution resolves the names of TCP/IP resources that do not connect through the NetBIOS interface. The most common example of this is a Web browser such as Microsoft Internet Explorer. Other examples include Internet applications such as Ping, FTP, and Telnet.
 - *NetBIOS interface(Network Basic Input/Output System)*-It is a network service that enables applications on different computers to communicate with each other across a local area network (LAN).
-<img width="750" src="![image](https://github.com/raunakkk21/Cybersecurity/assets/143111163/31dc189e-f73a-46f9-8ed7-c3f53c678c6e)">
+<img width="750" alt="Screenshot 2024-02-16 053514" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/20f63560-3d0a-438a-8058-d9f93f82b86c">
+
+### Some Linux commands
+- apt install whois
+- whois "domain name", for ex- whois netflix.com
+- dig "domain name", for ex- dig netflix.com
+- we can also get information about the site by simply typing ip address of the website, for ex- whois "IP address"
+- whois --help
+- whois -v edureka.com
+
+## Using DNS to get information
+- whois -h facebook.com - used for retrieving information about domain name or an ip address
+
+## Finding network ranges
+<img width="750" alt="Screenshot 2024-02-16 061550" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/fb6c0894-d3de-458b-a09a-1c2c39147e24">   
+
+- An IP address is a unique number that identifies a host or interface in a network. A subnet mask is a 32-bit combination that splits an IP address into two parts
+- Host: One part of the IP address identifies the host, or computer.
+- Network: The other part of the IP address identifies the network to which the host belongs.
+- Subnet masks are structured like IP addresses, but they show the start of the host number. They identify the range of IP addresses that make up a subnet, or group of IP addresses on the same network
+<img width="750" alt="Screenshot 2024-02-16 063257" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/a6b01897-b3f8-46a8-8f4c-b2b3238e026e">
+
+- host edureka.co
+- host netflix.com--we get the network range
+- dig -h
+- dig -mx netflix.com
+
+## Using Google  for information
+<img width="750" alt="Screenshot 2024-02-16 064938" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/2a2844a6-61c9-442c-817b-79b49beb7f56">  
+
+- To search keywords in short we can use following:
+   - "index of"- shows everything related to index of
+   - filetype.config
+   - inurl.root
+   - filetype.doc
+   - filetype.js
+   - intitle.error -google
+   - google hacking databas-provides list of queries for penetration testers
+
+----------  
+
+## OSI and TCP/IP model
+<img width="750" alt="Screenshot 2024-02-16 103033" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/2047c49c-85f7-4f31-8ccc-5b6f6071dd97">    
+<img width="750" alt="Screenshot 2024-02-16 104118" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/79ba1de3-d01a-40a8-8736-40c336597709">
+
+
+- Open Systems Interconnection (OSI) is a conceptual framework that defines how networking systems communicate and send data.
+- *Wireshark*-Wireshark is a free, open-source tool that analyzes network traffic in real-time. It can capture data packets from a network connection, such as Ethernet, Bluetooth, wireless, token ring, and frame relay connections. Wireshark translates that data into information for IT professionals and cybersecurity teams
+  
+## Addressing modes
+- Addressing modes are how you addresss a packet to its destination
+
+1.*Unicast*
+- When there is TCP/IP protocol red and blue computers can talk simulataneously whereas when there is UDP only one computer can send strea(i.e red to blue or vice versa) and after one finishes communicating next computer can start communicating.
+<img width="750" alt="Screenshot 2024-02-16 105656" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/fe128965-6a0a-4c2e-a68a-74fdd11aedac">
+
+2.*Broadcast*  
+
+<img width="750" alt="Screenshot 2024-02-16 105714" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/48ff47b1-562e-482e-bce2-26ad3945a71f">  
+
+- In computer networking, broadcasting refers to transmitting a packet that will be received by every device on the network
+
+3.*Multicast*  
+<img width="750" alt="Screenshot 2024-02-16 110231" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/b46acb27-e3e7-4b91-863f-6787d48c5c84">  
+- In computer networking, multicast is a group communication paradigm that transmits data from one or more sources to a group of destinations simultaneously
+
+
+
+
+
+
+    
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
 
 
 
