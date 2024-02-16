@@ -191,6 +191,13 @@ Cyberattacks can be aimed at:
 - **Asymmetric Cryptography**-Asymmetric cryptography, also known as public-key cryptography, is a process that uses a pair of keys to encrypt and decrypt messages. The keys are a public key and a private key.(slower process)
 
 
+## Cryptographic hashing
+<img width="750" alt="Screenshot 2024-02-16 183356" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/7e391f8c-5f11-43c1-b4ad-4227b0411f99">    
+- MD5 and SHA1 are both hashing algorithms. MD5 stands for Message Digest, while SHA1 stands for Secure Hash Algorithm. MD5 generates a message digest of 128-bits, while SHA1 generates a message digest of 160-bit hash value. 
+
+
+
+
 
 
 
