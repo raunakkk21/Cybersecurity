@@ -166,7 +166,39 @@ Cyberattacks can be aimed at:
 - Address Resolution Protocol (ARP) is a protocol that maps dynamic IP addresses to permanent physical machine addresses in a local area network (LAN). The physical machine address is also known as a media access control (MAC) address.
 
 <img width="750" alt="Screenshot 2024-02-16 172546" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/745ba2f6-5ae2-41ef-84a5-c7bfe425f4cd">  
-<img width="750" alt="Screenshot 2024-02-16 172656" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/6ba641fd-5112-4373-8944-763f03f24df9">  
+<img width="750" alt="Screenshot 2024-02-16 172656" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/6ba641fd-5112-4373-8944-763f03f24df9">   
+
+-----------  
+
+## Cryptography
+<img width="750" alt="Screenshot 2024-02-16 173642" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/61e0d137-73fa-43ef-beea-2a6fb871c6a2">    
+
+- Cryptography refers to secure information and communication techniques derived from mathematical concepts and a set of rule-based calculations called algorithms, to transform messages in ways that are hard to decipher. These deterministic algorithms are used for cryptographic key generation, digital signing, verification to protect data privacy, web browsing on the internet and confidential communications such as credit card transactions and email.
+
+<img width="750" alt="Screenshot 2024-02-16 174210" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/2affac68-ec59-4077-8271-b797a26c7186">  
+
+- DES was developed by IBM
+<img width="750" alt="Screenshot 2024-02-16 174354" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/7b6853e7-3db8-4264-ad35-88d995cf7ff0">  
+<img width="750" alt="Screenshot 2024-02-16 174617" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/418f52d7-7b90-444b-ae00-551858348fc9">
+
+
+## Types of Cryptography
+- **Symmetric Cryptography**-Symmetric cryptography, known also as secret key cryptography, is the use of a single shared secret to share encrypted data between parties.
+  - Cmd command to encrypt a message--for ex-> aescrypt -e -p "password" "file name"
+  - Symmetric key uses either block cypher or stream cipher
+  <img width="750" alt="Screenshot 2024-02-16 220143" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/6aa567de-9836-4caf-adbc-bde3686710a3">
+
+- **Asymmetric Cryptography**-Asymmetric cryptography, also known as public-key cryptography, is a process that uses a pair of keys to encrypt and decrypt messages. The keys are a public key and a private key.(slower process)
+
+
+
+
+
+
+
+
+
+
 
 
 
