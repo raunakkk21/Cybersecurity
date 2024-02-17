@@ -263,7 +263,48 @@ Cyberattacks can be aimed at:
 -----------------  
 
 
-## Cybersecurity Tools
+## Cybersecurity Tools  
+### BluVector  
+<img width="750" alt="Screenshot 2024-02-17 170529" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/34f0f82d-de69-4b9c-a747-7ead33edacf3">  
+
+- Designed for mid-sized to very large organizations, the platform makes it possible to accurately and efficiently detect, analyze and contain sophisticated threats including fileless malware, zero-day malware, and ransomware in real time.
+- It is designed to work with all IPv6 traffic as well as older IPv4 streams
+
+--------------
+
+### Bricata  
+<img width="750" alt="Screenshot 2024-02-17 170953" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/9094569a-3efd-4451-b864-3a00e745c32e">  
+
+### Cloud defender
+<img width="750" alt="Screenshot 2024-02-17 171129" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/38438dce-3612-436f-9cd1-62c118bda1ae">   
+
+- It can work with any kind of cloud environments like AWS,GCP, Azure, etc
+
+### Cofense Triage
+<img width="750" alt="Screenshot 2024-02-17 171411" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/217353e4-b710-4e7b-bc69-68ed895f8652">  
+
+---------------
+
+## Cybersecurity Frameworks  
+- A cybersecurity framework is a set of documents that contain guidelines, best practices, and standards to help organizations manage and mitigate cybersecurity risk
+
+<img width="750" alt="Screenshot 2024-02-17 234024" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/ff6cc9c8-c2a9-4784-9851-4092f7a548d8">    
+
+<img width="893" alt="Screenshot 2024-02-17 234238" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/ad32460e-67e4-48aa-8600-a00ba697e947">    
+
+<img width="921" alt="Screenshot 2024-02-17 234402" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/2afd1b8c-b9cf-4559-b442-346904384647">
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
