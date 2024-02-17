@@ -192,8 +192,53 @@ Cyberattacks can be aimed at:
 
 
 ## Cryptographic hashing
-<img width="750" alt="Screenshot 2024-02-16 183356" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/7e391f8c-5f11-43c1-b4ad-4227b0411f99">    
+<img width="750" alt="Screenshot 2024-02-16 183356" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/7e391f8c-5f11-43c1-b4ad-4227b0411f99">   
+
 - MD5 and SHA1 are both hashing algorithms. MD5 stands for Message Digest, while SHA1 stands for Secure Hash Algorithm. MD5 generates a message digest of 128-bits, while SHA1 generates a message digest of 160-bit hash value. 
+
+## TLS(Transport Layer security) and SSL(Secure socker layer)   
+- *TLS*-It is a security protocol that encrypts communication between web applications and servers over the internet. TLS uses both symmetric encryption and public key encryption to securely send private data. It also adds additional security features, such as authentication and message tampering detection.
+
+<img width="750" alt="Screenshot 2024-02-17 145958" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/dce97c86-fde2-46c2-881e-527cb17beb6e">
+
+- *SSL*- It's a security protocol that encrypts, secures, and authenticates communications on the internet.SSL was developed in 1995 by Netscape to ensure privacy, authentication, and data integrity in internet communications. It's the predecessor to the modern TLS encryption used today.Netscape eventually spun off their source code and become mozilla project.
+<img width="750" alt="Screenshot 2024-02-17 145900" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/fd46d824-e3a4-41de-b637-2bdc2e5cc616">
+
+---------------  
+
+## Disk Encryption
+- *Bitlocker*-BitLocker is a Windows security feature that encrypts the entire hard drive, including system files, to protect data from theft or unauthorized access.BitLocker uses the Advanced Encryption Standard (AES) algorithm in cipher block chaining (CBC) or "xor–encrypt–xor (XEX)-based Tweaked codebook mode with ciphertext Stealing" (XTS) mode with a 128-bit or 256-bit key.
+
+
+<img width="750" alt="Screenshot 2024-02-17 151840" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/0763a555-0a98-484f-a666-f2d70947db89">    
+
+<img width="750" alt="Screenshot 2024-02-17 152049" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/c609b182-8a24-450e-a57a-34e05cb0bf82">  
+
+<img width="750" alt="Screenshot 2024-02-17 153734" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/82592dd5-fe14-4a9b-a767-d84fbd9e58c5">    
+
+<img width="750" alt="Screenshot 2024-02-17 154252" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/995769c8-aec2-4aba-8e9f-b11456228dcd">   
+
+- *PackEth*-packETH is a packet generator tool for Ethernet. It can be used to create and send packets or sequences of packets on an Ethernet link. packETH is a GUI and CLI tool that runs on Linux and supports many parameter adjustments while sending packets
+  - It can also be used to spoof IP addresses
+
+  
+---------------    
+
+## Cybersecurity Threats
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
