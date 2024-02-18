@@ -292,7 +292,10 @@ Cyberattacks can be aimed at:
 
 <img width="893" alt="Screenshot 2024-02-17 234238" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/ad32460e-67e4-48aa-8600-a00ba697e947">    
 
-<img width="921" alt="Screenshot 2024-02-17 234402" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/2afd1b8c-b9cf-4559-b442-346904384647">
+<img width="921" alt="Screenshot 2024-02-17 234402" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/2afd1b8c-b9cf-4559-b442-346904384647">  
+
+<img width="1070" alt="Screenshot 2024-02-18 204111" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/dfeb2267-16c3-4401-9f40-dd91952f28f0">
+
 
 
 
