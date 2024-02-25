@@ -1,4 +1,4 @@
-# Topology
+## Topology
 - Network topology is the physical and logical arrangement of nodes and connections in a network. It can be depicted physically or logically
 
 ### *Types of topology*
@@ -32,8 +32,18 @@
 ---------------  
 
 
-# *OSI Model(Open System Interconnection)*
-<img width="750" alt="Screenshot 2024-02-24 170341" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/385e7c2e-81f8-4686-87e0-fb85b25e14a6">  
+## *OSI Model(Open System Interconnection)*
+<img width="750" alt="Screenshot 2024-02-24 170341" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/385e7c2e-81f8-4686-87e0-fb85b25e14a6">    
+
+------------  
+
+## Network Addressing
+- *MAC Address*-A Media Access Control (MAC) address is a 12-character alphanumeric(hexadecimal) code that uniquely identifies a device on a network. It's also known as a physical address, hardware address, or burned-in address (BIA).
+    - Use command *GETMAC* in cmd to get details about MAC address
+    - The Block ID is the first six characters of a MAC address. The Device ID is the remaining six characters.
+    - We can check details about  mac address by some sites like dnchecker.org or macvendors.com
+
+
 
 
 
