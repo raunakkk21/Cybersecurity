@@ -61,7 +61,13 @@
 
 <img width="800" alt="Screenshot 2024-02-25 214506" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/d51bd552-d868-4ffb-921b-97781df93335">    
 
-## Networking Protocols and Routing
+## Networking Protocols and Routing  
+<img width="800" alt="Screenshot 2024-02-26 232327" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/eda41267-080e-42ad-bfd0-7483cb2d5f17">  
+<img width="800" alt="Screenshot 2024-02-26 232649" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/a1a1145f-3999-419b-8221-29924298571f">  
+<img width="800" alt="Screenshot 2024-02-26 233141" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/fc2e2cdf-5f5b-4f8c-ac24-b58e74e2c8b7">
+
+
+
 
 
 
