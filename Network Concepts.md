@@ -73,6 +73,42 @@
 - Virtualization is technology that you can use to create virtual representations of servers, storage, networks, and other physical machines. Virtual software mimics the functions of physical hardware to run multiple virtual machines simultaneously on a single physical machine.
 <img width="800" alt="Screenshot 2024-02-27 124726" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/c25b3984-8558-417a-9d91-9bef5dce8cde">
 <img width="800" alt="Screenshot 2024-02-27 124752" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/35441942-efe2-4ba1-b70e-9aca99378a9a">
+<img width="800" alt="Screenshot 2024-02-27 155829" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/989b6612-e664-422c-a661-adf9778b3262">
+<img width="800" alt="Screenshot 2024-02-27 160123" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/6d6422d3-cf59-43f7-8dd4-9d8c53679274">
+<img width="800" alt="Screenshot 2024-02-27 160334" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/d89c35b6-d524-40e9-b64f-8a7186754de1">
+<img width="800" alt="Screenshot 2024-02-27 161257" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/2ddbd39c-50ad-4630-87ed-f30c1796af38">
+<img width="800" alt="Screenshot 2024-02-27 170733" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/69148b18-3878-48b0-9fcc-89fc673dceff">
+<img width="800" alt="Screenshot 2024-02-27 171644" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/17e0c946-76f2-434a-9813-6c3a691d31c9">
+<img width="800" alt="Screenshot 2024-02-27 172552" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/a8302232-0be9-4726-88d8-f07cf17cde91">
+
+
+## Subnetting  
+<img width="800" alt="Screenshot 2024-02-27 173926" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/1b365719-5747-49d8-accf-50f7c95dc560">   
+<img width="800" alt="Screenshot 2024-02-27 174003" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/90b77632-a6c2-4d15-a6d0-ce6f8d98e74e">
+
+<img width="800" alt="Screenshot 2024-02-27 173850" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/438b4639-58ce-45cc-970c-a726325df2f5">  
+<img width="800" alt="Screenshot 2024-02-27 175236" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/d7d032cb-3d53-43eb-9df0-7e175fbd10a9">    
+
+## Network Security Management
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
