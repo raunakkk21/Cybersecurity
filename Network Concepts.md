@@ -89,7 +89,26 @@
 <img width="800" alt="Screenshot 2024-02-27 173850" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/438b4639-58ce-45cc-970c-a726325df2f5">  
 <img width="800" alt="Screenshot 2024-02-27 175236" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/d7d032cb-3d53-43eb-9df0-7e175fbd10a9">    
 
-## Network Security Management
+## Network Security Management  
+<img width="800" alt="Screenshot 2024-02-27 202943" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/bb8ce08d-d461-44b6-aa31-a75ab4885be1">  
+<img width="800" alt="Screenshot 2024-02-27 203117" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/7af61a69-fdc0-438f-9706-5688fe81cfa2">   
+<img width="800" alt="Screenshot 2024-02-27 212058" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/a5b0d7e1-4a43-4079-8fd3-638d78453201">  
+<img width="800" alt="Screenshot 2024-02-27 212111" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/c148768f-4551-4a1f-ba31-2f30c1871f6c">  
+<img width="800" alt="Screenshot 2024-02-27 212358" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/49e25eda-28ea-4f43-af6a-f9b786c1bef9">    
+<img width="800" alt="Screenshot 2024-02-27 213811" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/0c8b5878-2c56-4aa2-b9a7-0eb874c1d7ac">   
+<img width="800" alt="Screenshot 2024-02-27 213851" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/c1ca2e15-8c4a-408e-9cbe-0499df63fb78">  
+
+## Securing Network
+
+
+
+
+
+
+
+
+
+
 
 
 
