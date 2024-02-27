@@ -64,7 +64,21 @@
 ## Networking Protocols and Routing  
 <img width="800" alt="Screenshot 2024-02-26 232327" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/eda41267-080e-42ad-bfd0-7483cb2d5f17">  
 <img width="800" alt="Screenshot 2024-02-26 232649" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/a1a1145f-3999-419b-8221-29924298571f">  
-<img width="800" alt="Screenshot 2024-02-26 233141" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/fc2e2cdf-5f5b-4f8c-ac24-b58e74e2c8b7">
+<img width="800" alt="Screenshot 2024-02-26 233141" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/fc2e2cdf-5f5b-4f8c-ac24-b58e74e2c8b7">  
+
+<img width="800" alt="Screenshot 2024-02-27 120323" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/ca9719d8-58bd-4453-9ee3-77820278dd3f">  
+<img width="800" alt="Screenshot 2024-02-27 121643" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/3809515b-efb8-4111-b3fc-323151fc46ca">  
+
+## Virtualization
+- Virtualization is technology that you can use to create virtual representations of servers, storage, networks, and other physical machines. Virtual software mimics the functions of physical hardware to run multiple virtual machines simultaneously on a single physical machine.
+<img width="800" alt="Screenshot 2024-02-27 124726" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/c25b3984-8558-417a-9d91-9bef5dce8cde">
+<img width="800" alt="Screenshot 2024-02-27 124752" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/35441942-efe2-4ba1-b70e-9aca99378a9a">
+
+
+
+
+
+
 
 
 
