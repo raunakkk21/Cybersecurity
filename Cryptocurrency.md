@@ -44,7 +44,18 @@
 ### *Nonce Range*    
 <img width="850" alt="Screenshot 2024-03-09 004736" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/9c712d69-c459-48e7-adbd-d9bdb5786231">    
 <img width="850" alt="Screenshot 2024-03-09 004851" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/53d1d426-e570-4e07-b03a-5ac020e75b56">  
-<img width="850" alt="Screenshot 2024-03-09 005134" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/5753f203-c9d3-4a07-ba6f-158881fdec37">
+<img width="850" alt="Screenshot 2024-03-09 005134" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/5753f203-c9d3-4a07-ba6f-158881fdec37">  
+<img width="850" alt="Screenshot 2024-03-09 005446" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/1872e889-4b05-4297-9f06-845b41ef7a2d">  
+
+- All the nonces will be exhausted in only 40 seconds and remaining hashes never hit the target which will create a problem, which leads us to a new concept called Timestamp
+
+
+
+### *Timestamp*
+
+
+
+
 
 
 
