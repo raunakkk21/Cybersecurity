@@ -54,7 +54,38 @@
 
  ------------  
 
- ### *Blockchain Mining*
+ ### *Blockchain Mining*  
+ - Blockchain "mining" is a metaphor for the computational work that network nodes undertake to validate the information contained in blocks.
+<img width="850" alt="Screenshot 2024-03-08 171420" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/c4c0cf72-4adb-4617-9af6-e111a9132320">
+<img width="850" alt="Screenshot 2024-03-08 171931" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/ace615d2-906c-45c8-91b0-5fa28b9d906e">
+<img width="850" alt="Screenshot 2024-03-08 172138" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/1494ab11-03df-41dc-94e2-ee25cfc8ad5a">
+
+
+
+### *Consensus Protocol*
+- A consensus mechanism is a protocol that brings all nodes of a distributed blockchain network into agreement on a single data set.
+- Types of consensus protocol
+   - Proof of work(POW)
+   - Proof of stake(POS)
+   - Others
+<img width="850" alt="Screenshot 2024-03-08 173517" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/63a3a4e1-f6a1-49ea-bced-7bc29e23a067">
+
+- If a malicious activity is detected by any attacker then incentive and that block is not given to that attacker and following algorithm runs on each system to validate the mine activity
+<img width="850" alt="Screenshot 2024-03-08 173811" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/b4fe1bb1-50a8-4195-af2a-3def1ff8b6c1">
+<img width="850" alt="Screenshot 2024-03-08 174455" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/49e90f92-352a-445f-80db-9b0711d806f1">
+<img width="853" alt="Screenshot 2024-03-08 174508" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/1df3c93b-ddb3-4293-82af-9f3d4fa09a4d">
+
+- If all nodes have same computational power then the network which is bigger will be able to mine its next block faster than smaller network and the earlier mined block or smaller network will be replaced(discarded) by newly two mined blocks of larger network.The discarded blocks are called orphan blocks
+<img width="850" alt="Screenshot 2024-03-08 174855" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/cfcc478f-a58f-43fa-bc91-2c64cd1e8e41">
+
+
+
+
+
+
+
+
+
  
  
 
