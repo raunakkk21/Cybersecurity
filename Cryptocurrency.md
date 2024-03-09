@@ -67,12 +67,35 @@
   
 ----------    
 
-###  *Mempool*  
+###  *Mempool*    
+- A mempool is a temporary storage area for transactions in a cryptocurrency network
 - Miners take any number of transactions and keep in their ledger
 - When nonces get over in a very less time, then the miners change the transaction to slight smaller values which change the hash value and nonces which got exhausted can be used once again.
 - After this timstamp again changes and  this cycle repeats again.
 
-<img width="828" alt="Screenshot 2024-03-09 155414" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/3db3e944-c100-45fb-8458-c575302ac771">
+<img width="850" alt="Screenshot 2024-03-09 155414" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/3db3e944-c100-45fb-8458-c575302ac771">   
+<img width="850" alt="Screenshot 2024-03-09 174536" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/1fe4c69c-b992-4ee4-937e-d82ba7af8faa">  
+<img width="850" alt="Screenshot 2024-03-09 175004" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/085ac599-bd04-4fb5-9335-9f4d604ee516">  
+
+
+### *Transactions and UTXOs(Unspent transaction output)*  
+- When a Bitcoin transaction takes place, it creates one or more outputs, which are essentially the destination addresses where the Bitcoins are being sent. These outputs are assigned a value, which is the amount of Bitcoins being transferred.
+<img width="850" alt="Screenshot 2024-03-09 175930" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/23d116d5-5679-4e83-83b9-5600f193315c">
+<img width="850" alt="Screenshot 2024-03-09 180303" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/c1ef2d5b-b7b4-422f-a93b-ef07dfe35ea5">
+
+- Finaaly we are left with bob's UTXO
+<img width="850" alt="Screenshot 2024-03-09 180756" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/5e7f2545-a4d9-42af-99f0-28e3ce9b837b">
+<img width="850" alt="Screenshot 2024-03-09 181539" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/e2ad329d-8d46-4c9f-a17b-85aee9785d65">
+<img width="850" alt="Screenshot 2024-03-09 181644" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/926e2d2a-adb8-4eae-9c4a-143295268934">
+
+- Wallet fetches UTXOs and then calculates how much balance are we left with.
+
+
+
+
+
+
+
 
 
 
