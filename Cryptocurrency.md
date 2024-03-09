@@ -91,6 +91,40 @@
 - Wallet fetches UTXOs and then calculates how much balance are we left with.
 
 
+### *Public and private key*  
+<img width="850" alt="Screenshot 2024-03-09 211613" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/8d75f405-bd80-4a7b-8020-3385e3b6bfc7">  
+
+- Demo can be done at "tools.superdatascience"
+- When we want to do transaction we send our public key, whereas if we want to recieve a transaction we need to share bitcoin address
+
+<img width="850" alt="Screenshot 2024-03-09 212324" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/f333cd8f-0fa3-4ec5-b24b-0f735ac04b30">    
+
+  
+### *Segregated witness*    
+- Block size in blockchain in genrally of size 1mb
+- If we increase block size then it will acqire more bandwidth in the network which will make it slow
+- And  if we decrease the size then transactions will be less which will create difficulty
+- Signature and public key takes most of space and it's a witness of transaction which is called segregated witness
+- In 2017 miners incresed and we started sending public key and signature differently
+- If we do transactions frequently then hackers can track down the pattern which will be a threat to our privacy
+- Which evolvs a new concept called HD wallets(Hierarchically deterministic)
+  
+<img width="850" alt="Screenshot 2024-03-09 213637" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/03ddcd77-c22d-467c-bd51-8f8d292d975c">  
+<img width="850" alt="Screenshot 2024-03-09 214738" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/82c27ee9-75df-4db1-b316-031acdab3c3f">  
+
+  
+- Master private key can access all the transactions that take place through different private keys
+- Master key can generate different private keys through which transactions can take place
+- Master public key cannot do payments it can only be used to check for what purpose it has been used for
+
+
+
+
+
+
+
+
+
 
 
 
