@@ -30,6 +30,48 @@
 <img width="850" alt="Screenshot 2024-03-10 002654" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/3aaed8f2-093e-4195-a870-1a6c379de01c">  
 <img width="850" alt="Screenshot 2024-03-10 003637" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/ad48c112-122a-4914-9f0f-ca4b8338db6f">  
 
+-------------  
+
+
+### *Decentralized applications(Dapps)*
+<img width="850" alt="Screenshot 2024-03-10 004708" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/5cb0f675-c584-4bd7-8826-1a7c7c7430fe">  
+<img width="850" alt="Screenshot 2024-03-10 004834" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/ec0f0cce-9cf7-4cfc-9095-a4a4b6936999">  
+<img width="850" alt="Screenshot 2024-03-10 004905" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/fb107fbd-1565-4235-aba1-1c128a803d70">  
+
+
+### *Ethereum Virtual Machine(EVM)*  
+- It is designed as the runtime environment for smart contracts in Ethereum. It is sandboxed and isolated from the other parts of the system. This means that any operation on EVM should not affect your data or programs in any way, no matter how many times you call a particular function on it.
+
+### *Ethereum Gas*  
+<img width="850" alt="Screenshot 2024-03-10 010258" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/82625dd8-7e02-4efa-87c4-765e1397cc52">    
+
+- Find more info at "https://github.com/djrtwo/evm-opcode-gas-costs"
+- Any transaction that modifies the blockchain costs gas
+- The user that generated the transaction pays for the gas
+- The higher tha gas price, the faster the transaction will be mined
+- Gas limit can prevent cyberattacks by limiting use of gas 
+
+<img width="850" alt="Screenshot 2024-03-10 011119" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/a50254f9-5236-4799-b1eb-c3aaa73aac79">  
+<img width="850" alt="Screenshot 2024-03-10 011645" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/8a186436-c130-4163-9167-845d002295a6">    
+<img width="850" alt="Screenshot 2024-03-10 011845" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/5e2ef4e8-84fe-41ef-a09b-f8135c40ff93">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
