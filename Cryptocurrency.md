@@ -51,7 +51,33 @@
 
 
 
-### *Timestamp*
+### *Timestamp*    
+- In each second as the time changes hash value also changes due to avlanche effect(unix time).
+- But in every 1 second miner can only use 0.1 billion nonce in 1 second after which timestamp changes which results in change of hash value
+- As the hash value changes, the nonces that we used can be used once again and can be utilised according to machine efficiency at current time
+- And nonces can be used again and again
+
+<img width="850" alt="Screenshot 2024-03-09 153102" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/f258574e-2334-4276-9033-51bf3de920dc">  
+<img width="850" alt="Screenshot 2024-03-09 153045" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/66f28ca6-dadf-44b4-80d8-a0c0c56cb773">  
+<img width="850" alt="Screenshot 2024-03-09 154151" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/87276b90-c138-4479-ae78-b2138fb8bb83">    
+
+- But if we see in whole network the nonces exhaust in a very less period of time which is far less than 1 second
+
+
+  
+----------    
+
+###  *Mempool*  
+- Miners take any number of transactions and keep in their ledger
+- When nonces get over in a very less time, then the miners change the transaction to slight smaller values which change the hash value and nonces which got exhausted can be used once again.
+- After this timstamp again changes and  this cycle repeats again.
+
+<img width="828" alt="Screenshot 2024-03-09 155414" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/3db3e944-c100-45fb-8458-c575302ac771">
+
+
+
+
+
 
 
 
