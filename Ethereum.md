@@ -82,7 +82,60 @@
 <img width="850" alt="Screenshot 2024-03-10 202106" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/976a27d0-1893-4f08-a704-2824c8d3788f">  
 <img width="850" alt="Screenshot 2024-03-10 203434" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/ba043a3e-f9d6-4a62-920f-c1f20bcadaf3">  
 
-### *Soft fork*
+### *Soft fork*  
+<img width="850" alt="Screenshot 2024-03-10 225834" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/5ee0efaf-a8ef-46e2-8854-af5840f7b3a6">  
+<img width="855" alt="Screenshot 2024-03-10 230411" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/c63c2e07-c957-4828-b30c-b3bb7be7c8f8">  
+
+
+### *ICO(Initial Coin offering)*  
+<img width="805" alt="Screenshot 2024-03-10 231955" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/baca7e75-64ed-4b2f-9f63-6da778332b33">  
+
+
+
+### *Ethereum 2.0 or Serenity*  
+- Scalibility
+- Security
+- Sustainiblity
+- Major upgrades
+  - Sharding
+  - Proof of Stake(POS)
+
+<img width="850" alt="Screenshot 2024-03-10 232652" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/c3e01c7b-d398-4813-b73b-cfe5f6f6745f">    
+
+- Minimum requirement is of 32 ETH to become a validator
+
+<img width="850" alt="Screenshot 2024-03-10 233216" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/f36e7cd6-c903-4551-a59a-dbdab4c81418">  
+<img width="850" alt="Screenshot 2024-03-10 233310" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/5e4b3710-daf9-4813-8aff-b7c0ca65a4b4">  
+
+- *Sharding*
+  - In Ethereum, sharding is a scaling solution that involves dividing the network into multiple shards. Each shard has its own state, set of account balances, and smart contracts.
+<img width="850" alt="Screenshot 2024-03-10 233902" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/8d751204-0f65-4a59-a247-6d1f70b5f240">
+<img width="850" alt="Screenshot 2024-03-10 234104" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/8a8a476c-5ef6-493f-ac2c-a26ba83e0b4c">
+<img width="850" alt="Screenshot 2024-03-10 234241" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/5e2e3db0-3b0f-42b5-81cf-d6e8902b155d">
+
+
+### *Alt coins*
+- All coins which are not bitcoins are called alt coins
+<img width="850" alt="Screenshot 2024-03-10 234341" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/61fc9097-f519-42b1-9df3-392cd2cd0cfe">
+<img width="850" alt="Screenshot 2024-03-10 234504" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/12ca1c7e-1043-4f5d-83d2-6cc6646caaf1">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
