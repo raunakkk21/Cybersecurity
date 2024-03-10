@@ -53,7 +53,36 @@
 
 <img width="850" alt="Screenshot 2024-03-10 011119" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/a50254f9-5236-4799-b1eb-c3aaa73aac79">  
 <img width="850" alt="Screenshot 2024-03-10 011645" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/8a186436-c130-4163-9167-845d002295a6">    
-<img width="850" alt="Screenshot 2024-03-10 011845" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/5e2ef4e8-84fe-41ef-a09b-f8135c40ff93">
+<img width="850" alt="Screenshot 2024-03-10 011845" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/5e2ef4e8-84fe-41ef-a09b-f8135c40ff93">    
+
+- Find more info at "ethereum.io"
+  
+<img width="850" alt="Screenshot 2024-03-10 180512" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/6d129170-e0b4-4770-8776-acfcaa20eafd">  
+<img width="850" alt="Screenshot 2024-03-10 180558" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/4e925e49-7e6a-44a3-ad0b-db61781b822e">    
+<img width="850" alt="Screenshot 2024-03-10 180858" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/60158876-aad6-48b2-a440-de94928b9ede">   
+
+  
+
+### *The DAO Attack* 
+- DAO attack was due to a bug in smart contract which ran over ethereum blockchain
+<img width="850" alt="Screenshot 2024-03-10 191153" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/085863c0-32d5-43f9-a08a-125df0848aaf">   
+<img width="850" alt="Screenshot 2024-03-10 192952" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/73f75d32-e512-473b-b4b9-4829cc6bb1e3">  
+<img width="850" alt="Screenshot 2024-03-10 193110" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/ec559c96-1ee3-4cff-9790-c1320bd1c37e">  
+
+- After DAO attack, due to hard fork ethereum blockchain was divide into ethereum classic and ethereum
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
