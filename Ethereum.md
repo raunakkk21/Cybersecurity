@@ -70,6 +70,23 @@
 <img width="850" alt="Screenshot 2024-03-10 193110" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/ec559c96-1ee3-4cff-9790-c1320bd1c37e">  
 
 - After DAO attack, due to hard fork ethereum blockchain was divide into ethereum classic and ethereum
+- Attackers started to steal ethers and investers came at loss
+
+
+### *Hard Fork*
+- Ethereum classic followed traditional principles which beleived that no need to change the existing methods
+- Ethereum new version beleived that they need to change the existing principles
+- Parallely both branches were working
+- Hard fork also occured in bitcoin also
+
+<img width="850" alt="Screenshot 2024-03-10 202106" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/976a27d0-1893-4f08-a704-2824c8d3788f">  
+<img width="850" alt="Screenshot 2024-03-10 203434" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/ba043a3e-f9d6-4a62-920f-c1f20bcadaf3">  
+
+### *Soft fork*
+
+
+
+
 
 
 
