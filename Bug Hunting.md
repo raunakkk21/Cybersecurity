@@ -24,6 +24,16 @@
   - Git version control
   - Verbox error messages
 - *Port swigger*-PortSwigger offers tools for web application security, testing, & scanning.
+- *Feroxbuster*-Feroxbuster is a powerful and efficient web directory and file enumeration tool that is designed to help security testers and web developers discover hidden directories and files on web servers. It is written in Rust programming language, which makes it fast and efficient.
+  - command- feroxbuster -u "site url" -w "text file name"
+  
+
+<img width="850" alt="Screenshot 2024-03-12 232543" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/c6f63005-79c7-4593-a5ab-4a628aeda0a6">  
+<img width="850" alt="Screenshot 2024-03-12 232715" src="https://github.com/raunakkk21/Cybersecurity/assets/143111163/56612b29-36f7-479a-9db8-fa2f769762d8">
+
+
+
+
 
 
 
